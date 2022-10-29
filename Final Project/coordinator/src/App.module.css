@@ -1,0 +1,9 @@
+* {
+ margin:0px;
+ padding:0px;
+}
+.page{
+  background: grey;
+  height: 100vh;
+  max-width: 100%;
+}
